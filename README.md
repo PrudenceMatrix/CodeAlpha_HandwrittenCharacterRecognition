@@ -6,7 +6,7 @@ from small pictures.
 
 ## Project video
 
-LinkedIn video: [PASTE YOUR LINKEDIN POST LINK HERE]
+on my linked in profile
 
 ## What this project does
 
